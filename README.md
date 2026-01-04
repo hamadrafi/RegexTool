@@ -77,7 +77,7 @@ regex-tool-project-main
 ### Installation
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/hamadrafi/Regex---Pattern-Validator-Platform>
 npm install
 npm run dev
 ````
