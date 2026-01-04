@@ -1,4 +1,3 @@
-```
 # Regex Tool - Pattern Validation Platform
 
 [Live Demo](https://your-live-demo-link.com)
@@ -16,7 +15,6 @@ The Regex Tool project is a practical and educational tool for understanding reg
 ## Project Structure
 
 ```
-
 regex-tool-project-main
 ├── components
 │   └── DFAVisualizer.tsx
@@ -114,7 +112,5 @@ Regex Tool TOA is a hands-on platform for learning and testing regular expressio
 For questions, contributions, or feature requests, use the **Issues** section or community discussions on the [GitHub repository](https://github.com/hamadrafi/Regex---Pattern-Validator-Platform).
 
 ```
-
----
 
 
