@@ -1,0 +1,6 @@
+
+{
+  "name": "Regex Master & DFA Visualizer",
+  "description": "A comprehensive platform for creating regex, testing patterns at scale, and visualizing DFA transitions with high-performance state machine rendering.",
+  "requestFramePermissions": []
+}
