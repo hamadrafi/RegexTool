@@ -1,6 +1,6 @@
 # Regex Tool - Pattern Validation Platform
 
-[Live Demo](https://your-live-demo-link.com)
+[Live Demo]([https://your-live-demo-link.com](https://regex-tool-1.vercel.app/))
 
 A web-based platform for validating and visualizing regular expressions (regex). The Regex Tool allows users to input regex patterns and examine matches in real-time, providing feedback on pattern validity and DFA state transitions.
 
@@ -77,7 +77,7 @@ regex-tool-project-main
 ### Installation
 
 ```bash
-git clone <https://github.com/hamadrafi/Regex---Pattern-Validator-Platform>
+git clone <https://github.com/hamadrafi/RegexTool>
 npm install
 npm run dev
 ````
@@ -109,6 +109,6 @@ Regex Tool TOA is a hands-on platform for learning and testing regular expressio
 
 ## Contact
 
-For questions, contributions, or feature requests, use the **Issues** section or community discussions on the [GitHub repository](https://github.com/hamadrafi/Regex---Pattern-Validator-Platform).
+For questions, contributions, or feature requests, use the **Issues** section or community discussions on the [GitHub repository](https://github.com/hamadrafi/RegexTool).
 
 
