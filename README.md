@@ -1,6 +1,7 @@
 # Regex Tool - Pattern Validation Platform
 
-[Live Demo]([https://your-live-demo-link.com](https://regex-tool-1.vercel.app/))
+[Live Demo](https://regex-tool-1.vercel.app/)
+
 
 A web-based platform for validating and visualizing regular expressions (regex). The Regex Tool allows users to input regex patterns and examine matches in real-time, providing feedback on pattern validity and DFA state transitions.
 
